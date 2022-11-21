@@ -1,0 +1,5 @@
+link do projeto no figma: https://www.figma.com/file/1lKS9GOx5MvVSZo6WZ2YNI/Explorer---Projeto-02-(Copy)
+
+fontes usadas:
+ mulish: bold e regular;
+ open sans: regular e bold

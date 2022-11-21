@@ -1,0 +1,5 @@
+https://www.figma.com/file/MRRaPi1WuZIF1JcauXtmzG/Explorer-Stage-03-Projeto-01-(Copy)
+
+fontes:
+ -archivo: semibold 600, bold 700
+ -poppins: regular 400
